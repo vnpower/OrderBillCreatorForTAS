@@ -1,0 +1,69 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+D:\Du lieu move tu may HP\Work BENXUAT\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Documents and Settings\Administrator\Desktop\Chuong trinh PA NOIBAI\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmInlenhxuat.resources
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmInlenhnhap.resources
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.application
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.application
+C:\Ghi_Du_Lieu_SQL\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.formtickexuat.resources
+C:\PA_NB_TDH\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+C:\PA_NB_TDH\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.application
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.formtickexuat.resources
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmInlenhxuat.resources
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.application
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Kho XD Hoang Huy\HH_PMS\Ghi_Du_Lieu_SQL_2013_07_01\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.application
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.exe
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\bin\Debug\Ghi_Du_Lieu_SQL.pdb
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.formtickexuat.resources
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmMain.resources
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.frmInlenhxuat.resources
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.Properties.Resources.resources
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.csproj.GenerateResource.Cache
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.exe.manifest
+D:\Ticke_TAS\Ghi_Du_Lieu_SQL\obj\Debug\Ghi_Du_Lieu_SQL.application
