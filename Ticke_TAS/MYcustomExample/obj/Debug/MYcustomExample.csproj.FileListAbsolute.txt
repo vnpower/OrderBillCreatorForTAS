@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\bin\Debug\MYcustomExample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\bin\Debug\MYcustomExample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.CustomMessenger.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Ghi_Du_Lieu_SQL\MYcustomExample\obj\Debug\MYcustomExample.MyMessageBox.resources
